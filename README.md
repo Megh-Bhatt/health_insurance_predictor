@@ -1,6 +1,6 @@
 ## Health Insurance Predictor
 
-This repository explores predicting health insurance premium amounts using individual characteristics. The code leverages the Random Forest algorithm and various Python libraries like scikit-learn and pandas for data manipulation and analysis.
+This repository explores predicting health insurance premium amounts using individual characteristics. The code leverages the Random Forest algorithm and various Python libraries like scikit-learn and pandas for data manipulation and analysis.The dataset that I am using for the task of health insurance premium prediction is collected from Kaggle. It contains data about: the age of the person, gender of the person, Body Mass Index of the person, how many children the person is having, whether the person smokes or not, the region where the person lives and the charges of the insurance premium
 
 #### Libraries & Roles:
 
