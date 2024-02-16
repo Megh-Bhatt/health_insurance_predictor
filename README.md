@@ -4,7 +4,7 @@ This repository explores predicting health insurance premium amounts using indiv
 
 Libraries & Roles:
 
-scikit-learn: Provides the RandomForestRegressor algorithm for accurate predictions.
-pandas: Facilitates efficient data loading, manipulation, and exploration through DataFrames.
-numpy: Enables numerical computations and array operations for feature engineering and model training.
-plotly.express: Creates interactive visualizations like histograms and pie charts for data exploration.
+Scikit-learn: Provides the RandomForestRegressor algorithm for accurate predictions.
+Pandas: Facilitates efficient data loading, manipulation, and exploration through DataFrames.
+Numpy: Enables numerical computations and array operations for feature engineering and model training.
+Plotly.express: Creates interactive visualizations like histograms and pie charts for data exploration.
